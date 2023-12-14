@@ -14,4 +14,5 @@
 body {
     justify-content: left;
     text-emphasis-position: calc(d);
+    text-align: center;
 }

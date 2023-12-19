@@ -20,4 +20,5 @@ body {
 
 .text {
     text-decoration: dotted;
+    transition: all;
 }
